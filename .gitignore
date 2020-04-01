@@ -1,0 +1,6 @@
+plots/*
+presentation/*
+.Rhistory
+*.csv
+*.html
+data/*
